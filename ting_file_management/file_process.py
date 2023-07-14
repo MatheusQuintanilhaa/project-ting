@@ -33,3 +33,6 @@ def file_metadata(instance, position):
         print(in_queue)
     except IndexError:
         print("Posição inválida", file=sys.stderr)
+
+
+"""requisito 3 ,4, 5 feitos"""
